@@ -1,6 +1,6 @@
 <?php
-//exercicio inutil de estudo sobre orientada a objeto onde eu faço portas lógicas
-//algumas coisas feitas apenas para testar o funcionamento, evite tiltar enquanto lê 
+//exercicio de estudo sobre orientada a objeto onde eu faço portas lógicas
+//algumas coisas feitas apenas para testar o funcionamento 
 class porta
 {
 	public $e1 = false;
